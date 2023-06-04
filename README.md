@@ -1,4 +1,4 @@
-# Hey, I'm Carlos Rupérez 👋
+# Hey, I'm Carlos Rupérez 🤩
 
 <a href="https://github.com/carlosruperez">
     <img src="assets/github.png" width="64">
