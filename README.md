@@ -20,15 +20,15 @@
 
 ## Software Engineer at [@Celering](https://github.com/celering), Tech Enthusiast & Minimalist
 
-lorem ipsum blablabla... 🤩
-
 <br/>
 <br/>
 
 ## Tools
-  
+
+<div>  
 <img aling="center" width="64" src="assets/python.svg">
 <img aling="center"  src="assets/go.svg" width="64">
 <img aling="center"  src="assets/django.png" width="64">
 <img aling="center"  src="assets/docker.png" width="64">
 <img aling="center"  src="assets/tux.svg" width="64">
+</div>
